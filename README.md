@@ -44,7 +44,17 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
   <a href="https://bookkeeper.apache.org/" target="_blank"> <img src="https://bookkeeper.apache.org/img/bk-logo.svg" alt="BookKeeper" width="40" height="40"/> </a> 
   <a href="https://pulsar.apache.org/" target="_blank"> <img src="https://streamnative.io/uploads/images/learn/pulsar-logo.svg" alt="Pulsar" width="50" height="50"/> </a> 
   
- 
+
+## My GitHub Stats 💻
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aismam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aismam&hide=javascript,html,css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
   
 <!--
 **aismam/aismam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
