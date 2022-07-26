@@ -49,11 +49,11 @@ I recently graduated from the  **University of Bologna**  in  **Computer Science
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aismam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=turbo-ismam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aismam&hide=javascript,html,css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbo-ismam&hide=javascript,html,css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
   
 <!--
