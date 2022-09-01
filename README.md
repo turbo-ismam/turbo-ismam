@@ -7,13 +7,12 @@ Master's degree in Computer Science and Engeneering at the University of Bologna
 I'm a tech enthusiast & love designing and developing new ideas that are highly usable, useful, elegant and extensible.
 
 ### ✨ Slogans
-> Physics is the universe’s operating system. *- Steven R Garman*
-
 > Programs must be written for people to read, and only incidentally for machines to execute. *- Abelson and Sussman*
 
 > If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent. *- Edsger Dijkstra*
-**About me**
 
+
+### 🌞 **About me**
 - 💼 Software Engineer at [Alexide](https://www.alexide.com/portal/it/)
 - ❤️ I love writing in Scala, and building fun experiments
 - 🐱 & 🍫 Addict
