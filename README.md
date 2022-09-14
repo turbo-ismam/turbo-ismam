@@ -45,6 +45,7 @@ I'm a tech enthusiast & love designing and developing new ideas that are highly 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
   [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)](https://www.typescriptlang.org/)
   [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org/it/)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/en-us)
   
  * Frameworks
   [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)]()
@@ -110,7 +111,7 @@ I'm a tech enthusiast & love designing and developing new ideas that are highly 
 
 
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/en-us)
+
 
 ## 💻 My GitHub Stats 
 
