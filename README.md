@@ -81,35 +81,6 @@ I'm a tech enthusiast & love designing and developing new ideas that are highly 
   [![Atom](	https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white)]()
   [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)]()
   [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)]()
-  
-  
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  [![]()]()
-  
-
-  
-
-
 
 
 
@@ -117,3 +88,6 @@ I'm a tech enthusiast & love designing and developing new ideas that are highly 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=turbo-ismam&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turbo-ismam&hide=TeX&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=turbo-ismam)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=turbo-ismam)](https://git.io/streak-stats)
