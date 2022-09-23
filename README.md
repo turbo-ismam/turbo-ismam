@@ -1,13 +1,13 @@
 <!-- # Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> -->
 # Turbo-Ismam <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-Master's degree in Computer Science and Engeneering at the University of Bologna.
-I'm a tech enthusiast & love designing and developing new ideas that are highly usable, useful, elegant and extensible.
+Rocket League Boi.
 
 ## 💫 About me
 - 🧔🏻‍♂️ Pronouns: he/him.
 - 📝 Languages: ~~Scala/Java~~ Italian/English.
-- 📚 Career: Bachelor's degree in Computer Science and Engineering "Alma Mater Studiorum - Università di Bologna"
-- 🐱 & 🍫 Addict
+- 📚 Career: Bachelor's degree in Computer Science and Engineering "Alma Mater Studiorum - Università di Bologna".
+- 🔥 Interests: tech enthusiast & love designing and developing new ideas that are highly usable, useful, elegant and extensible.
+- 🐱 & 🍫 Addict.
 
 ### ✨ Slogans
 > Programs must be written for people to read, and only incidentally for machines to execute. *- Abelson and Sussman*
