@@ -5,7 +5,7 @@ Rocket League Boi.
 ## 💫 About me
 - 🧔🏻‍♂️ Pronouns: he/him.
 - 📝 Languages: ~~Scala/Java~~ Italian/English.
-- 📚 Career: Bachelor's degree in Computer Science and Engineering "Alma Mater Studiorum - Università di Bologna".
+- 📚 Career: Master's degree in Computer Science and Engineering "Alma Mater Studiorum - Università di Bologna".
 - 🔥 Interests: tech enthusiast & love designing and developing new ideas that are highly usable, useful, elegant and extensible.
 - 🐱 & 🍫 Addict.
 
