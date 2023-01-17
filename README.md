@@ -70,9 +70,9 @@ Rocket League Boi.
 ## 💻 My GitHub Stats 
 <div align="center">
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=turbo-ismam&count_private=true&show_icons=true&include_all_commits=true)
+  ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=turbo-ismam&count_private=true&show_icons=true&include_all_commits=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turbo-ismam&hide=TeX&layout=compact)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=turbo-ismam&hide=TeX&layout=compact)
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=turbo-ismam)](https://github.com/ryo-ma/github-profile-trophy)
 
