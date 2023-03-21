@@ -1,5 +1,5 @@
 <!-- # Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> -->
-# Turbo-Ismam <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# turbo-ismam <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 Evil Ismam
 <img src="evil-ismam.png"
      width="25%" height="25%"
